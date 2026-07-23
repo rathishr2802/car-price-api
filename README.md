@@ -1,5 +1,12 @@
 # 🚗 Car Price Prediction API
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-009688?logo=fastapi)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikitlearn)
+![AWS](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazonaws)
+![License](https://img.shields.io/badge/License-MIT-green)
+# 🚗 Car Price Prediction API
+
 A Machine Learning-powered REST API built using **FastAPI** and deployed on **AWS EC2 (Ubuntu 24.04 LTS)**.
 
 This project predicts the estimated price of a used car based on various vehicle attributes using a trained Scikit-learn Machine Learning model. The model is exposed through a FastAPI REST API and hosted on AWS EC2 for public access.
